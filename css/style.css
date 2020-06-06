@@ -2,6 +2,16 @@
     width: 50px;
 }
 
-.bloco-dois,  .bloco-tres, .bloco-quatro, .bloco-cinco{
+.bloco-dois,  .bloco-tres, .bloco-quatro, .bloco-cinco, .bloco-seis{
     margin-top: 50px;
 }
+/* 
+.img-rodape{
+    width: 400px;
+} */
+
+footer{
+    padding: 20px 0;
+    background-color: brown;
+}
+
