@@ -2,6 +2,6 @@
     width: 50px;
 }
 
-.bloco-dois{
+.bloco-dois,  .bloco-tres, .bloco-quatro, .bloco-cinco{
     margin-top: 50px;
 }
